@@ -4,8 +4,7 @@ body{
     font-size: 22px;
     opacity: 0.9;
     color:seashell ;
-    text-align: center; 
-    column-gap: normal;
+    text-align: center;
 }
 
 .container{
@@ -13,10 +12,6 @@ body{
     height: 69px;
     display: flex;
     justify-content: space-between;
-}
-
-.logo{
-    height: 50px;
 }
 
 
